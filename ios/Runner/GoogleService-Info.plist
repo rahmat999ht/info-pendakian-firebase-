@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>113745340967-ibb60hgdktpqg6213bc1uectl8al0c1q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.113745340967-ibb60hgdktpqg6213bc1uectl8al0c1q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCY0lat0VbY-5xkom1eHAIfRKrJNHRRiUQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>113745340967</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.professional</string>
+	<key>PROJECT_ID</key>
+	<string>info-pendakian-49578</string>
+	<key>STORAGE_BUCKET</key>
+	<string>info-pendakian-49578.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:113745340967:ios:469e73535c0c838aeb3c02</string>
+</dict>
+</plist>

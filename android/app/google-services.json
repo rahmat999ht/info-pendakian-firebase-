@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113745340967",
+    "project_id": "info-pendakian-49578",
+    "storage_bucket": "info-pendakian-49578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113745340967:android:9509154cca3245c9eb3c02",
+        "android_client_info": {
+          "package_name": "com.example.professional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113745340967-56u6071v2hmrtgar2kflfr3e12t43mq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3gpfponXRXWE597vHPvnpQM-Gi29QJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113745340967-56u6071v2hmrtgar2kflfr3e12t43mq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
